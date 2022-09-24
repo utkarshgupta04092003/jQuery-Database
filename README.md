@@ -35,5 +35,8 @@ All the fields are necessary to be filled and the addition of a new record is di
 
 
 
-https://user-images.githubusercontent.com/63789702/192096336-d7676b58-81d6-44f4-bf67-6a05f81f66bc.mp4
+https://user-images.githubusercontent.com/63789702/192096390-73b5f59d-eb1c-4156-96a1-e344662983ef.mp4
+
+
+
 
