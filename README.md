@@ -6,5 +6,25 @@ You have to build them a web page that takes student data and then enter a new r
 All the fields are necessary to be filled and the addition of a new record is directly visible on the screen. They also want the page to look simple yet attractive.
 
 
-###### [Hosted Link](http://utprojects.epizy.com/jQueryDataBase/index.html)
+###### Hosted Link - http://utprojects.epizy.com/jQueryDataBase/index.html
 
+###### Features-
+- Able to Store large number of Student Data
+- Interactive UI
+- Display student Data immediately
+- Scroll handling of Database
+
+###### Technology Used -
+- HTML
+- CSS
+- jQuery
+
+###### Tools Used -
+- Vs code
+- Web Browser
+
+###### Can Do -
+- Uniqueness of Student by Roll No
+- Show Student Details by Roll No, Name
+- Show Student Details between marks range
+- Able to change/delete particular student details
