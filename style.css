@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+
+}
+#main{
+    /* border: 2px solid red; */
+    width: 60%;
+    min-width: 600px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+#heading{
+    /* border: 2px solid yellow; */
+    margin-top: 5rem;
+}
+#form{
+    /* border: 2px solid green; */
+    margin-top: 3rem;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.input-box{
+    /* border: 2px solid blue; */
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    margin: 1.5rem;
+}
+label{
+    font-size: 1.3rem;
+    font-weight: bolder;
+}
+.input-box input{
+    display: block;
+    border: 2px solid gray;
+    /* font-size: 1rem; */
+    padding: 5px;
+}
+
+#btn{
+    margin-top: 2rem;
+    font-size: 1.3rem;
+    padding: 0.3rem 5.0rem;
+}
+
+/* aside css */
+
+#aside{
+    height: 100vh;
+    border-left: 2px solid gray;
+    width: 38%;
+    overflow: scroll;
+}
+.aside-box{
+    /* border: 2px solid red; */
+    font-size: 1.3rem;
+    word-spacing: 2px;
+    /* text-align: center; */
+    padding: 0.5rem;
+    margin: 0.4rem;
+}
+
+
+.aside-box:nth-child(even){
+    background-color: rgb(180, 185, 185);
+    /* border: 2px solid; */
+}
+.bg-green{
+    background-color: green;
+    color: white;
+    margin: auto 3px;
+    padding: 2px;
+}
